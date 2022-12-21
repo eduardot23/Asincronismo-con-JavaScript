@@ -1,0 +1,23 @@
+{
+  "name": "asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardot23/Asincronismo-con-JavaScript.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "asincronismo"
+  ],
+  "author": "Eduardo Ojeda Hernández eduardojeda.t23@gmai.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardot23/Asincronismo-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/eduardot23/Asincronismo-con-JavaScript#readme"
+}
