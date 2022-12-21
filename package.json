@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/eduardot23/Asincronismo-con-JavaScript/issues"
   },
-  "homepage": "https://github.com/eduardot23/Asincronismo-con-JavaScript#readme"
+  "homepage": "https://github.com/eduardot23/Asincronismo-con-JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
