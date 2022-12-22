@@ -22,5 +22,6 @@
   "homepage": "https://github.com/eduardot23/Asincronismo-con-JavaScript#readme",
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
